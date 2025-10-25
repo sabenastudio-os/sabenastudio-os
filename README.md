@@ -196,8 +196,6 @@ npm run dev
 
 ## 🎨 Capturas de Pantalla
 
-<!-- TODO: Agregar capturas reales del widget en acción -->
-
 ### Widget en Acción
 ![Widget de Chat](./assets/screenshot-widget.png)
 *Vista del widget integrado en el sitio web de Sabena Studio*
@@ -206,15 +204,10 @@ npm run dev
 ![Ejemplo de Conversación](./assets/screenshot-conversation.png)
 *Ale cualificando un lead y agendando reunión*
 
-### Dashboard de Leads
-![Google Sheets](./assets/screenshot-sheets.png)
-*Registro automático de leads en Google Sheets*
-
 ---
 
 ## 🎥 Demo en Video
 
-<!-- TODO: Embed del video demo -->
 [🎬 Ver Demo Completa](#)
 
 ---
