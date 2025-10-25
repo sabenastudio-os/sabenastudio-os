@@ -208,7 +208,8 @@ npm run dev
 
 ## 🎥 Demo en Video
 
-[🎬 Ver Demo Completa](#)
+![Demo Ale Bot](./assets/demo-ale-bot.gif)
+*Bot en acción: conversación natural*
 
 ---
 
