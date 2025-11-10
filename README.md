@@ -48,7 +48,7 @@ Ale Bot fue diseñado para resolver un desafío clave de los negocios digitales 
 │                                   │                        │
 │                                   │                        │
 │                            ┌──────▼────────┐              │
-│                            │  Claude 3.5   │              │
+│                            │  Claude 4.5   │              │
 │                            │  Haiku API    │              │
 │                            │  (Anthropic)  │              │
 │                            └──────┬────────┘              │
@@ -70,7 +70,7 @@ Ale Bot fue diseñado para resolver un desafío clave de los negocios digitales 
 ## ✨ Características Principales
 
 ### 🧠 Inteligencia Artificial Avanzada
-- **Claude 3.5 Haiku** con Function Calling para ejecución fiable de acciones
+- **Claude 4.5 Haiku** con Function Calling para ejecución fiable de acciones
 - Conversación natural en español adaptada al tono de Sabena Studio
 - Evaluación automática de calidad de leads (lead scoring)
 
