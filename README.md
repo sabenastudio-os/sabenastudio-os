@@ -103,7 +103,8 @@ Asistente virtual estratégico con IA integrada que cualifica leads, registra in
 - 💬 **Widget embebible** responsive y no invasivo
 
 #### Stack Técnico:
-- **Frontend:** React 18 + Vite (Vercel)
+- **Frontend:** React custom code embebido en Framer (sabenastudio.com)
+- **Frontend Demo:** React 18 + Vite (para demos a clientes)
 - **Backend:** Flask + Python (Railway)
 - **IA:** Anthropic Claude 4.5 Haiku API con Function Calling
 - **Email:** Mailgun API
@@ -129,7 +130,7 @@ Asistente virtual estratégico con IA integrada que cualifica leads, registra in
 │                                                             │
 │  ┌──────────────────┐         ┌──────────────────┐        │
 │  │   QUIZ FRONTEND  │         │   BOT FRONTEND   │        │
-│  │    (Vercel)      │         │    (Vercel)      │        │
+│  │    (Vercel)      │         │    (Framer)      │        │
 │  │  React + Vite    │         │  React + Vite    │        │
 │  └────────┬─────────┘         └────────┬─────────┘        │
 │           │                            │                   │
