@@ -1,40 +1,41 @@
+# 🌐 SabenaStudio Ecosystem  
+### *AI-powered Digital Architecture by Alejandra Trinca*
 
-# SabenaStudio Ecosystem  
-### AI-powered Digital Architecture by Alejandra Trinca  
+![Ecosystem](https://img.shields.io/badge/Module-Ecosystem-black)
+![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Flask%20%7C%20Framer%20%7C%20IA-blue)
+![AI](https://img.shields.io/badge/AI-Claude%20%7C%20OpenAI%20%7C%20Gemini-purple)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
 
 ## Languages  
 - Español (versión principal)  
-- English version below  
+- [English version](#english-version)  
 
 ---
 
 # 📚 Índice  
-
-- Descripción General  
-- Estructura del Ecosistema  
-- Arquitectura General  
-- Módulos del Ecosistema  
-- Stack Tecnológico General  
-- Privacidad y Alcance  
-- Autoría y Contacto  
-- Agradecimientos  
-- English Version  
-
----
-
-# 🧭 Descripción General  
-
-**SabenaStudio Ecosystem** es el repositorio maestro público que documenta la arquitectura, relaciones internas y funcionamiento general del ecosistema digital creado por **Alejandra Trinca**, especialista en webs inteligentes con IA integrada.  
-
-Este repositorio sirve como punto de referencia para entender cómo interactúan los distintos módulos del sistema, cómo se comunican entre sí y cuáles tecnologías sostienen el ecosistema.  
-
-No contiene código sensible ni claves privadas.  
+- [🧭 Descripción General](#-descripción-general)  
+- [🧩 Estructura del Ecosistema](#-estructura-del-ecosistema)  
+- [🏗️ Arquitectura General](#-arquitectura-general)  
+- [🚀 Módulos del Ecosistema](#-módulos-del-ecosistema)  
+- [🛠️ Stack Tecnológico General](#-stack-tecnológico-general)  
+- [🔒 Privacidad y Alcance](#-privacidad-y-alcance)  
+- [🎨 Autoría y Contacto](#-autoría-y-contacto)  
+- [🙏 Agradecimientos](#-agradecimientos)  
+- [🇬🇧 English Version](#english-version)  
 
 ---
 
-# 🧩 Estructura del Ecosistema  
+# 🧭 Descripción General
+
+**SabenaStudio Ecosystem** es el repositorio maestro público que documenta la arquitectura, relaciones internas y funcionamiento general del ecosistema digital creado por **Alejandra Trinca**, especialista en webs inteligentes con IA integrada.
+
+Su propósito es ofrecer una vista clara, profesional y accesible de cómo operan los módulos principales del sistema.
+
+---
+
+# 🧩 Estructura del Ecosistema
 
 ```
 sabenastudio-ecosystem/
@@ -48,11 +49,9 @@ sabenastudio-ecosystem/
     └── README.md
 ```
 
-El propósito de esta estructura es mantener cada módulo documentado de forma independiente mientras se conserva una visión integral del ecosistema completo.  
-
 ---
 
-# 🏗️ Arquitectura General  
+# 🏗️ Arquitectura General
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -82,29 +81,26 @@ El propósito de esta estructura es mantener cada módulo documentado de forma i
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Esta arquitectura resume cómo fluye la información a través del sistema y cómo cada módulo interactúa con los servicios externos.  
+---
+
+# 🚀 Módulos del Ecosistema
+
+## 1. **Quiz de Conversión**
+Módulo que evalúa, puntúa, registra en Google Sheets y envía correos mediante Mailgun.
+
+**Repositorio:** privado  
+**Stack:** React, Vite, Flask, Railway, Mailgun, Claude
 
 ---
 
-# 🚀 Módulos del Ecosistema  
+## 2. **Bot Ale**
+Asistente conversacional creado sobre Anthropic Claude, con lógica personalizada y envíos transaccionales automáticos.
 
-## 1. **Quiz de Conversión**  
-Módulo interactivo que evalúa al usuario, asigna un puntaje entre 20–100, registra la información en Google Sheets y envía correos personalizados mediante Mailgun.  
-
-Repositorio: **privado**  
-Stack: React, Vite, Flask, Railway, Mailgun, Claude  
+**Repositorio:** privado  
 
 ---
 
-## 2. **Bot Ale**  
-Asistente inteligente integrado con Anthropic Claude.  
-Orquesta la lógica conversacional y envía correos transaccionales.  
-
-Repositorio: **privado**  
-
----
-
-# 🛠️ Stack Tecnológico General  
+# 🛠️ Stack Tecnológico General
 
 - **Frontend:** React, Vite, Framer  
 - **Backend:** Python, Flask, Railway  
@@ -113,48 +109,48 @@ Repositorio: **privado**
 
 ---
 
-# 🔒 Privacidad y Alcance  
+# 🔒 Privacidad y Alcance
 
-Este repositorio no contiene:  
-- código privado  
+Este repositorio **no contiene**:  
 - claves  
+- código privado  
 - endpoints sensibles  
 
-Su objetivo es documentar y presentar el ecosistema de Sabena Studio en un formato accesible y profesional.  
+Su objetivo es servir como documentación de arquitectura del ecosistema Sabena Studio.
 
 ---
 
-# 🎨 Autoría y Contacto  
+# 🎨 Autoría y Contacto
 
 Creado por **Alejandra Trinca**  
-Especialista en Webs Inteligentes con IA Integrada.  
+Especialista en Webs Inteligentes con IA Integrada.
 
-🌐 **Web:** https://sabenastudio.com  
-📧 **Email:** info@sabenastudio.com  
-📸 **Instagram:** https://instagram.com/sabenastudio  
-🐙 **GitHub:** https://github.com/sabenastudio-os  
-
----
-
-# 🙏 Agradecimientos  
-
-Este ecosistema fue diseñado con el apoyo de tecnologías modernas como Framer, Railway, Vercel, Google APIs, React, Flask y Anthropic Claude.  
-Gracias a todas las personas y herramientas que permiten construir soluciones digitales inteligentes.  
+🌐 Web: https://sabenastudio.com  
+📧 Email: info@sabenastudio.com  
+📸 Instagram: https://instagram.com/sabenastudio  
+🐙 GitHub: https://github.com/sabenastudio-os  
 
 ---
 
-# — English Version —
+# 🙏 Agradecimientos
 
-# SabenaStudio Ecosystem  
-
-The **SabenaStudio Ecosystem** is the public master repository documenting the architecture, structure, and functional relationships inside the digital system created by **Alejandra Trinca**, an independent specialist in AI‑powered smart websites.  
-
-This repository does not include private code.  
-Its purpose is to provide a professional, high‑level overview of the system.  
+Gracias a las tecnologías que hicieron posible este ecosistema:  
+Framer, React, Flask, Railway, Google APIs, Mailgun, Anthropic Claude y más.  
 
 ---
 
-## 📁 Structure  
+# 🇬🇧 English Version
+
+## SabenaStudio Ecosystem
+
+The **SabenaStudio Ecosystem** is the public master repository documenting the architecture, internal logic and functional connections of Sabena Studio's digital system.
+
+This repository contains **no private code**.  
+It serves as a professional, high-level overview for collaborators and clients.
+
+---
+
+## 📁 Structure
 
 ```
 sabenastudio-ecosystem/
@@ -165,46 +161,41 @@ sabenastudio-ecosystem/
 
 ---
 
-## 🧭 Overview  
+## 🧩 Overview
 
-The ecosystem consists of two documented modules:  
+### **Quiz Module**  
+Built with React + Flask.  
+Evaluates users, assigns a score, logs data in Google Sheets, and sends automated emails through Mailgun.
 
-### **1. Quiz Module**  
-A conversion‑focused scoring system built with React + Flask.  
-It evaluates users, assigns scores, logs data to Google Sheets, and sends automated emails through Mailgun.  
+### **Bot Ale**  
+Powered by Anthropic Claude.  
+Handles conversational logic and transactional messages.
 
-### **2. Bot Ale**  
-A custom AI assistant powered by Anthropic Claude.  
-Handles conversational logic and transactional emails.  
-
-Both modules integrate with:  
-- **Mailgun** (email delivery)  
-- **Google Sheets API** (lead logging)  
-- **Framer Website** (user entry point)  
+Both modules integrate with Mailgun & Google Sheets.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 **Frontend:** React, Vite, Framer  
 **Backend:** Flask, Railway  
-**AI:** Anthropic Claude, OpenAI, Gemini  
-**Integrations:** Mailgun, Google Sheets API  
+**AI:** Claude, OpenAI, Gemini  
+**Integrations:** Mailgun, Google Sheets  
 
 ---
 
-## 🎨 Author & Contact  
+## 🎨 Author & Contact
 
 Created by **Alejandra Trinca**  
-AI‑powered Web Architecture & Digital Ecosystem Design  
 
-Website: https://sabenastudio.com  
-Email: info@sabenastudio.com  
-Instagram: https://instagram.com/sabenastudio  
-GitHub: https://github.com/sabenastudio-os  
+- Website: https://sabenastudio.com  
+- Email: info@sabenastudio.com  
+- Instagram: https://instagram.com/sabenastudio  
+- GitHub: https://github.com/sabenastudio-os  
 
 ---
 
-## ❤️ Credits  
+## ❤️ Credits
 
-Built with love, curiosity, and modern technologies such as Framer, React, Flask, Railway, Mailgun, Google APIs, and Anthropic Claude.  
+Built with curiosity, precision, and modern technologies powering AI-driven digital experiences.
+ologies such as Framer, React, Flask, Railway, Mailgun, Google APIs, and Anthropic Claude.  
